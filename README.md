@@ -8,7 +8,7 @@ and [OpenCOOD installation](https://opencood.readthedocs.io/en/latest/md_files/i
 data and install MKD-Cooper. The installation is totally the same as OpenCOOD.
 
 
-## Training 训练
+## Training
 ### Single GPU Training
 
 ```
